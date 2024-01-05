@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Jan  5 18:53:02 2024
-
-@author: samsheppard
-"""
-
 import lightkurve as lk
 import numpy as np
 import matplotlib.pyplot as plt
